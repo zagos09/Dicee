@@ -9,7 +9,7 @@
 
 ## How to Play
 
-1. Open the game in your browser.
+1. Go to the game here: [Dicee Game](https://zagos09.github.io/Dicee/).
 2. Refresh the page to roll the dice.
 3. Check the results to see who wins or if it's a draw.
 
